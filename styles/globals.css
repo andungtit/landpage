@@ -1,0 +1,12 @@
+@import "./lenis.css";
+@import "./oneplan.css";
+
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-ink: 17, 17, 22;
+  --color-muted: 147, 147, 151;
+  --color-blue: 67, 156, 255;
+  --color-line: 222, 222, 225;
+}
